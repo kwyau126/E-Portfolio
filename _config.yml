@@ -2,7 +2,7 @@ url: https://kwyau126.github.io
 baseurl: "/"
 
 # Site settings
-title: MSc Cyber Security E-Portfolio
+title: MSc Cyber Security
 email: kwyau126@yahoo.com.hk
 description: "MY E-PORTFOLIO BASED ON THE WORK CARRIED OUT ON THE MSC CYBER SECURITy PROGRAMME."
 
@@ -10,14 +10,14 @@ description: "MY E-PORTFOLIO BASED ON THE WORK CARRIED OUT ON THE MSC CYBER SECU
 # Team names, titles and social links
 people:
 - name: Kwok Wai Yau
-  pic: 1
+  pic:
   position: 
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: LinkedIn
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
