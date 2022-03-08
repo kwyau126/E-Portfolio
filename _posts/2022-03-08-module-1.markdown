@@ -1,6 +1,6 @@
 ---
-title: Launching into Cyber Security
-subtitle: 
+title: Module 1
+subtitle: Launching into Cyber Security
 layout: default
 modal-id: 7
 date: 08 Mar 2022
@@ -9,6 +9,6 @@ thumbnail: module-1.jpg
 alt: image-alt
 project-date: 08 Mar 2022
 tutor: Dr Stelios Sotiriadis
-category: Module 1
+unit: 12
 description: Launching into Cyber Security Outcomes
 ---
