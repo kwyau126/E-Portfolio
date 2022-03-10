@@ -1,6 +1,6 @@
 ---
-title: Module 2
-subtitle: Network and Information Security Management
+title: Network and Information Security Management
+subtitle: 
 layout: default
 modal-id: 2
 date: 08 Mar 2022

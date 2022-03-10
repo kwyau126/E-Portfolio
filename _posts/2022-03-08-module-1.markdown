@@ -1,6 +1,6 @@
 ---
-title: Module 1
-subtitle: Launching into Cyber Security
+title: Launching into Cyber Security
+subtitle: 
 layout: default
 modal-id: 1
 date: 08 Mar 2022

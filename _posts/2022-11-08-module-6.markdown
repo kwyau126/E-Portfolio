@@ -1,6 +1,6 @@
 ---
-title: Module 6
-subtitle: The Human Factor
+title: The Human Factor
+subtitle: 
 layout: default
 modal-id: 6
 date: 08 Mar 2022

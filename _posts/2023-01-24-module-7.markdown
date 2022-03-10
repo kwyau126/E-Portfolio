@@ -1,6 +1,6 @@
 ---
-title: Module 7
-subtitle: Principles of Digital Forensics and Cyber Law
+title: Principles of Digital Forensics and Cyber Law
+subtitle: 
 layout: default
 modal-id: 7
 date: 08 Mar 2022

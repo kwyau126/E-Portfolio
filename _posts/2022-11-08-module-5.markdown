@@ -1,6 +1,6 @@
 ---
-title: Module 5
-subtitle: Secure Systems Architecture
+title: Secure Systems Architecture
+subtitle: 
 layout: default
 modal-id: 5
 date: 08 Mar 2022

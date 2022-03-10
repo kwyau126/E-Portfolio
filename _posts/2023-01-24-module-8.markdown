@@ -1,6 +1,6 @@
 ---
-title: Module 8
-subtitle: Research Methods and Professional Practice
+title: Research Methods and Professional Practice
+subtitle: 
 layout: default
 modal-id: 8
 date: 08 Mar 2022

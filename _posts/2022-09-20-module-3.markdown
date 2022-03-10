@@ -1,6 +1,6 @@
 ---
-title: Module 3
-subtitle: Information Risk Management
+title: Information Risk Management
+subtitle: 
 layout: default
 modal-id: 3
 date: 08 Mar 2022
