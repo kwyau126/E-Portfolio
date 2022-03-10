@@ -2,7 +2,7 @@
 title: Research Methods and Professional Practice
 subtitle: 
 layout: default
-modal-id: 8
+modal-id: 1
 date: 08 Mar 2022
 img: module-8.jpg
 thumbnail: module-8.jpg

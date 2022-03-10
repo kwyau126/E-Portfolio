@@ -2,8 +2,8 @@
 title: The Human Factor
 subtitle: 
 layout: default
-modal-id: 6
-date: 08 Mar 2022
+modal-id: 1
+date: 06 Mar 2022
 img: module-6.jpg
 thumbnail: module-6.jpg
 alt: image-alt
