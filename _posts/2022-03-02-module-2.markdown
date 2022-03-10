@@ -1,5 +1,5 @@
 ---
-title: Network 
+title: Network and
 subtitle: 
 layout: default
 modal-id: 2
