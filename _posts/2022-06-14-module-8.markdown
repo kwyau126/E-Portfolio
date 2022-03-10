@@ -1,0 +1,14 @@
+---
+title: Module 8
+subtitle: Research Methods and Professional Practice
+layout: default
+modal-id: 8
+date: 09 Nov 2022
+img: module-8.jpg
+thumbnail: module-8.jpg
+alt: image-alt
+project-date: 09 Nov 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Research Methods and Professional Practice
+---

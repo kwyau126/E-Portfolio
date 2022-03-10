@@ -1,0 +1,14 @@
+---
+title: Module 3
+subtitle: Information Risk Management
+layout: default
+modal-id: 3
+date: 20 Sep 2022
+img: module-3.jpg
+thumbnail: module-3.jpg
+alt: image-alt
+project-date: 20 Sep 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Information Risk Management
+---

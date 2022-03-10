@@ -1,0 +1,14 @@
+---
+title: Module 7
+subtitle: Principles of Digital Forensics and Cyber Law
+layout: default
+modal-id: 7
+date: 09 Nov 2022
+img: module-7.jpg
+thumbnail: module-7.jpg
+alt: image-alt
+project-date: 09 Nov 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Principles of Digital Forensics and Cyber Law
+---
