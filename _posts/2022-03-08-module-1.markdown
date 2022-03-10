@@ -3,7 +3,7 @@ title: Launching into Cyber Security
 subtitle: 
 layout: default
 modal-id: 1
-date: 2022-03-01
+date: 2022-03-08
 img: module-1.jpg
 thumbnail: module-1.jpg
 alt: image-alt

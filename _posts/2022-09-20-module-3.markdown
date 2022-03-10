@@ -3,7 +3,7 @@ title: Information Risk Management
 subtitle: 
 layout: default
 modal-id: 3
-date: 2022-03-03
+date: 2022-03-06
 img: module-3.jpg
 thumbnail: module-3.jpg
 alt: image-alt
