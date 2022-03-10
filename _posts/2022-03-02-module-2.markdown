@@ -1,5 +1,5 @@
 ---
-title: and Information Security Management
+title: Network and Information Security Management
 subtitle: 
 layout: default
 modal-id: 2
