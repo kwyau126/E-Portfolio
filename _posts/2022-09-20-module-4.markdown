@@ -3,7 +3,7 @@ title: Module 4
 subtitle: Secure Software Development
 layout: default
 modal-id: 4
-date: 20 Sep 2022
+date: 08 Mar 2022
 img: module-4.jpg
 thumbnail: module-4.jpg
 alt: image-alt

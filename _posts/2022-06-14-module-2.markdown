@@ -3,7 +3,7 @@ title: Module 2
 subtitle: Network and Information Security Management
 layout: default
 modal-id: 2
-date: 14 Jun 2022
+date: 08 Mar 2022
 img: module-2.jpg
 thumbnail: module-2.jpg
 alt: image-alt
