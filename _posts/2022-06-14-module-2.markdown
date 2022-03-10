@@ -7,6 +7,7 @@ date: 2022-03-07
 img: module-2.jpg
 thumbnail: module-2.jpg
 alt: image-alt
+category: Cyber Security
 project-date: 14 Jun 2022
 tutor: Dr Stelios Sotiriadis
 unit: 12
