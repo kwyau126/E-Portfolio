@@ -8,7 +8,6 @@ img: module-4.jpg
 thumbnail: module-4.jpg
 alt: image-alt
 category: Cyber Security
-project-date: 20 Sep 2022
 tutor: Dr Stelios Sotiriadis
 unit: 12
 description: Secure Software Development
