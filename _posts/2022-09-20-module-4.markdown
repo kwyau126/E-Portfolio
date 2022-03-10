@@ -1,0 +1,14 @@
+---
+title: Module 4
+subtitle: Secure Software Development
+layout: default
+modal-id: 4
+date: 20 Sep 2022
+img: module-4.jpg
+thumbnail: module-4.jpg
+alt: image-alt
+project-date: 20 Sep 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Secure Software Development
+---

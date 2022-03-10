@@ -1,0 +1,14 @@
+---
+title: Module 6
+subtitle: The Human Factor
+layout: default
+modal-id: 6
+date: 08 Nov 2022
+img: module-6.jpg
+thumbnail: module-6.jpg
+alt: image-alt
+project-date: 08 Nov 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: The Human Factor
+---

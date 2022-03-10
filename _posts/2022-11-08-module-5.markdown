@@ -1,0 +1,14 @@
+---
+title: Module 5
+subtitle: Secure Systems Architecture
+layout: default
+modal-id: 5
+date: 08 Nov 2022
+img: module-5.jpg
+thumbnail: module-5.jpg
+alt: image-alt
+project-date: 08 Nov 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Secure Systems Architecture
+---
