@@ -2,7 +2,7 @@
 title: Principles of Digital Forensics and Cyber Law
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 7
 date: 02 Mar 2022
 img: module-7.jpg
 thumbnail: module-7.jpg
