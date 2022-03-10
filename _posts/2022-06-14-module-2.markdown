@@ -3,7 +3,7 @@ title: Network and Information Security Management
 subtitle: 
 layout: default
 modal-id: 2
-date: 02
+date: 2022-03-02
 img: module-2.jpg
 thumbnail: module-2.jpg
 alt: image-alt
