@@ -4,7 +4,7 @@ subtitle:
 layout: default
 modal-id: 1
 date: 08 Mar 2022
-img: module-8.jpg
+img: module-1.jpg
 thumbnail: module-8.jpg
 alt: image-alt
 project-date: 12 Jan 2023
