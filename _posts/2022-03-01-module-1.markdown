@@ -12,7 +12,7 @@ project-date: 08 Mar 2022
 tutor: Dr Stelios Sotiriadis
 unit: 12
 description: Launching into Cyber Security Outcomes.
-outcome: This is team meeting notes.
+outcome: This is learning outcome1.
 reflectives: This is reflectives after module completion.
 notes: This is team meeting notes.
 cpeers: This is comments from peers.
