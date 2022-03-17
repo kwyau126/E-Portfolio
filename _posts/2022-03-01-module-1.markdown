@@ -18,6 +18,9 @@ notes: This is team meeting notes.
 cpeers: This is comments from peers.
 ctutor: This is comments from tutors.
 pdp: This is professional matrixs, skills and PDP.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
 ---
 
 
