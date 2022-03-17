@@ -1,0 +1,22 @@
+---
+title: Launching into Cyber Security
+subtitle: 
+layout: default
+modal-id: 1
+date: 2022-03-08
+img: module-1.jpg
+thumbnail: module-1.jpg
+alt: image-alt
+category: Cyber Security
+project-date: 08 Mar 2022
+tutor: Dr Stelios Sotiriadis
+unit: 12
+description: Launching into Cyber Security Outcomes
+outcome: This is Learning outcome.
+notes: This is team meeting notes.
+cpeers: This is comments from peers.
+ctutor: This is comments from tutors.
+pdp: This is professional matrixs, skills and PDP.
+---
+
+
