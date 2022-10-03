@@ -1,5 +1,5 @@
 ---
-title: Network and Information Security Mgmt
+title: Network Security
 subtitle: 
 layout: default
 modal-id: 2
@@ -9,7 +9,6 @@ thumbnail: module-2.jpg
 alt: image-alt
 category: Cyber Security
 project-date: 14 Jun 2022
-tutor: Dr Stelios Sotiriadis
-unit: 12
+tutor: 6
 description: Network and Information Security Management
 ---
