@@ -3,12 +3,12 @@ title: Network Security
 subtitle: 
 layout: default
 modal-id: 2
-date: 2022-03-07
+date: 2022-06-14
 img: module-2.jpg
 thumbnail: module-2.jpg
 alt: image-alt
 category: Cyber Security
 project-date: 14 Jun 2022
-tutor: 6
-description: Network and Information Security Management
+tutor: Beran Necat
+description: Network Security
 ---
