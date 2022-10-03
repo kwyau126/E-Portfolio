@@ -1,5 +1,5 @@
 ---
-title: Information Risk Management
+title: Security and Risk Management
 subtitle: 
 layout: default
 modal-id: 3
@@ -8,8 +8,14 @@ img: module-3.jpg
 thumbnail: module-3.jpg
 alt: image-alt
 category: Cyber Security
-project-date: 20 Sep 2022
-tutor: Dr Stelios Sotiriadis
+project-date: 9 Aug 2022
+tutor: Douglas Millward
 unit: 12
-description: Information Risk Management
+description: Security and Risk Management
+outcome: 
+reflectives:  
+notes: This is team meeting notes.
+cpeers: This is comments from peers.
+ctutor: This is comments from tutors.
+pdp: This is professional matrixs, skills and PDP.
 ---
