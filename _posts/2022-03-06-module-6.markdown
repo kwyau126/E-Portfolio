@@ -1,5 +1,5 @@
 ---
-title: The Human Factor
+title: Secure Systems Architecture
 subtitle: 
 layout: default
 modal-id: 6
