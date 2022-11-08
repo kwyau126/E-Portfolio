@@ -8,7 +8,8 @@ img: module-4.jpg
 thumbnail: module-4.jpg
 alt: image-alt
 category: Cyber Security
-tutor: Dr Stelios Sotiriadis
-unit: 12
+project-date: 8 Nov 2022
+tutor: Dr Oliver Buckley
+unit: 6
 description: Secure Software Development
 ---
