@@ -12,4 +12,5 @@ project-date: 8 Nov 2022
 tutor: Dr Oliver Buckley
 unit: 6
 description: Secure Software Development
+outcome: <ul><li>Unit 1</li><ul><li>Learnt the waterfall and agile approaches to software development.</li><li>Learnt how UML can be used to support software development.</li><li>Learnt the standards used by industry to develop secure software.</li></ul></ul>
 ---
